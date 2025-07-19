@@ -1,0 +1,52 @@
+# Logs
+*.log
+activity.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files (keep some for demo)
+daily_log.md
+progress.txt
+notes.md
+stats.json
+changelog.md
+updates.txt
+
+# Config with sensitive info (if needed)
+# config.json
